@@ -18,6 +18,7 @@ Ext.onReady(function () {
     Ext.define('Ext.ux.PanImageComponent', {
         extend: 'Ext.Img',
         alias: ['widget.panimage', 'widget.panimagecomponent'],
+        autoEl: 'div',
         componentDefaults: {},
 
         initComponent: function () {
