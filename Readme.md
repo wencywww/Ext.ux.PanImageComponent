@@ -29,7 +29,7 @@ Sencha ExtJS Image component with Pan & Zoom features
   * Uses the Panzoom library to add pan/zoom capabilities to ExtJS Image component
   * Registers the 'panimage' / 'panimagecomponent' xtypes
   * Once instantiated, the Ext.Img underlying image can be panned with the mouse and zoomed (mouse wheel)
-  * Tested with ExtJS version 5.0.0.736 and up to 6.6.0 
+  * Tested with ExtJS version 4.2.1.883 and up to 7.5.0 
 
 <br>
 
