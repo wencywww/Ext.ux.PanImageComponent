@@ -2,6 +2,7 @@
 Sencha ExtJS Image component with Pan & Zoom features
 -----
 <br>
+
 ![preview](Ext.ux.PanImage.png)
 
 **Uses the Panzoom Library**
