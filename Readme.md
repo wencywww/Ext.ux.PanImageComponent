@@ -19,7 +19,7 @@ Sencha ExtJS Image component with Pan & Zoom features
 
 **Demos**
 
-[Sencha's Fiddle: https://fiddle.sencha.com/#fiddle/3h23](https://fiddle.sencha.com/#fiddle/2o24)
+[Sencha's Fiddle: https://fiddle.sencha.com/#fiddle/3h23](https://fiddle.sencha.com/#fiddle/3h23)
 
 
 <br>
